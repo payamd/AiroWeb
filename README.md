@@ -1,4 +1,5 @@
 # AiroWeb
+
 Lightweight HTML Website (Practice Project)
 
 This project is a lightweight HTML website reconstructed solely for learning purposes.
@@ -7,7 +8,7 @@ All original design rights and content belong to Mosh Hamedani, the creator of t
 
 The goal of this project is to:
 
-Practice Advance HTML and CSS skills 
+Practice Advance HTML and CSS skills
 
 Rebuild a real-world website layout
 
@@ -17,5 +18,6 @@ Disclaimer
 
 This project is a personal educational exercise.
 
-Thank you
+Thank you!
+
 Payam
